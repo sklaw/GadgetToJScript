@@ -1,0 +1,7 @@
+C:\Users\dfgfdg\Source\Repos\GadgetToJScript\TestAssembly\bin\Debug\TestAssembly.dll.config
+C:\Users\dfgfdg\Source\Repos\GadgetToJScript\TestAssembly\bin\Debug\TestAssembly.dll
+C:\Users\dfgfdg\Source\Repos\GadgetToJScript\TestAssembly\bin\Debug\TestAssembly.pdb
+C:\Users\dfgfdg\Source\Repos\GadgetToJScript\TestAssembly\obj\Debug\TestAssembly.csproj.CoreCompileInputs.cache
+C:\Users\dfgfdg\Source\Repos\GadgetToJScript\TestAssembly\obj\Debug\TestAssembly.dll
+C:\Users\dfgfdg\Source\Repos\GadgetToJScript\TestAssembly\obj\Debug\TestAssembly.pdb
+C:\Users\dfgfdg\Source\Repos\GadgetToJScript\TestAssembly\obj\Debug\TestAssembly.csprojAssemblyReference.cache
