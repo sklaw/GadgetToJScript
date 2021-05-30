@@ -10,4 +10,3 @@ D:\vs_projects\GadgetToJScript\TestAssembly\bin\Debug\TestAssembly.pdb
 D:\vs_projects\GadgetToJScript\TestAssembly\obj\Debug\TestAssembly.csproj.CoreCompileInputs.cache
 D:\vs_projects\GadgetToJScript\TestAssembly\obj\Debug\TestAssembly.dll
 D:\vs_projects\GadgetToJScript\TestAssembly\obj\Debug\TestAssembly.pdb
-D:\vs_projects\GadgetToJScript\TestAssembly\obj\Debug\TestAssembly.csprojAssemblyReference.cache

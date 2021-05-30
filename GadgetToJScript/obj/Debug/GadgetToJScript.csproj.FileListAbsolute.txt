@@ -14,4 +14,3 @@ D:\vs_projects\GadgetToJScript\GadgetToJScript\obj\Debug\GadgetToJScript.csproj.
 D:\vs_projects\GadgetToJScript\GadgetToJScript\obj\Debug\GadgetToJScript.csproj.CopyComplete
 D:\vs_projects\GadgetToJScript\GadgetToJScript\obj\Debug\GadgetToJScript.exe
 D:\vs_projects\GadgetToJScript\GadgetToJScript\obj\Debug\GadgetToJScript.pdb
-D:\vs_projects\GadgetToJScript\GadgetToJScript\obj\Debug\GadgetToJScript.csprojAssemblyReference.cache
