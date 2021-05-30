@@ -6,4 +6,12 @@ C:\Users\dfgfdg\Source\Repos\GadgetToJScript\GadgetToJScript\obj\Debug\GadgetToJ
 C:\Users\dfgfdg\Source\Repos\GadgetToJScript\GadgetToJScript\obj\Debug\GadgetToJScript.csproj.CopyComplete
 C:\Users\dfgfdg\Source\Repos\GadgetToJScript\GadgetToJScript\obj\Debug\GadgetToJScript.exe
 C:\Users\dfgfdg\Source\Repos\GadgetToJScript\GadgetToJScript\obj\Debug\GadgetToJScript.pdb
-C:\Users\dfgfdg\Source\Repos\GadgetToJScript\GadgetToJScript\obj\Debug\GadgetToJScript.csprojAssemblyReference.cache
+D:\vs_projects\GadgetToJScript\GadgetToJScript\bin\Debug\GadgetToJScript.exe.config
+D:\vs_projects\GadgetToJScript\GadgetToJScript\bin\Debug\GadgetToJScript.exe
+D:\vs_projects\GadgetToJScript\GadgetToJScript\bin\Debug\GadgetToJScript.pdb
+D:\vs_projects\GadgetToJScript\GadgetToJScript\bin\Debug\NDesk.Options.dll
+D:\vs_projects\GadgetToJScript\GadgetToJScript\obj\Debug\GadgetToJScript.csproj.CoreCompileInputs.cache
+D:\vs_projects\GadgetToJScript\GadgetToJScript\obj\Debug\GadgetToJScript.csproj.CopyComplete
+D:\vs_projects\GadgetToJScript\GadgetToJScript\obj\Debug\GadgetToJScript.exe
+D:\vs_projects\GadgetToJScript\GadgetToJScript\obj\Debug\GadgetToJScript.pdb
+D:\vs_projects\GadgetToJScript\GadgetToJScript\obj\Debug\GadgetToJScript.csprojAssemblyReference.cache
