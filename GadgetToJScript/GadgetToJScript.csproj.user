@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
-    <StartWorkingDirectory>D:\vs_projects\GadgetToJScript\TestAssembly\bin\Debug\</StartWorkingDirectory>
+    <StartWorkingDirectory>C:\Users\worklaptop2\Documents\GitHub\GadgetToJScript\TestAssembly\bin\Debug\</StartWorkingDirectory>
     <StartArguments>-a TestAssembly.dll -w vba -o test -b -d System.Runtime.InteropServices.dll</StartArguments>
   </PropertyGroup>
 </Project>

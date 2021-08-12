@@ -14,3 +14,12 @@ D:\vs_projects\GadgetToJScript\GadgetToJScript\obj\Debug\GadgetToJScript.csproj.
 D:\vs_projects\GadgetToJScript\GadgetToJScript\obj\Debug\GadgetToJScript.csproj.CopyComplete
 D:\vs_projects\GadgetToJScript\GadgetToJScript\obj\Debug\GadgetToJScript.exe
 D:\vs_projects\GadgetToJScript\GadgetToJScript\obj\Debug\GadgetToJScript.pdb
+C:\Users\worklaptop2\Documents\GitHub\GadgetToJScript\GadgetToJScript\bin\Debug\GadgetToJScript.exe.config
+C:\Users\worklaptop2\Documents\GitHub\GadgetToJScript\GadgetToJScript\bin\Debug\GadgetToJScript.exe
+C:\Users\worklaptop2\Documents\GitHub\GadgetToJScript\GadgetToJScript\bin\Debug\GadgetToJScript.pdb
+C:\Users\worklaptop2\Documents\GitHub\GadgetToJScript\GadgetToJScript\bin\Debug\NDesk.Options.dll
+C:\Users\worklaptop2\Documents\GitHub\GadgetToJScript\GadgetToJScript\obj\Debug\GadgetToJScript.csproj.CoreCompileInputs.cache
+C:\Users\worklaptop2\Documents\GitHub\GadgetToJScript\GadgetToJScript\obj\Debug\GadgetToJScript.csproj.CopyComplete
+C:\Users\worklaptop2\Documents\GitHub\GadgetToJScript\GadgetToJScript\obj\Debug\GadgetToJScript.exe
+C:\Users\worklaptop2\Documents\GitHub\GadgetToJScript\GadgetToJScript\obj\Debug\GadgetToJScript.pdb
+C:\Users\worklaptop2\Documents\GitHub\GadgetToJScript\GadgetToJScript\obj\Debug\GadgetToJScript.csproj.AssemblyReference.cache
